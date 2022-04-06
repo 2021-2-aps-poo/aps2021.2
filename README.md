@@ -4,8 +4,4 @@
 
 **Professor:** [Rodrigo Rebouças de Almeida](http://rodrigor.dcx.ufpb.br)
 
-# Atividade XX
-
-Descrição da atividade
-
-![diagrama](atividade.png)
+Código produzido em sala de aula.
